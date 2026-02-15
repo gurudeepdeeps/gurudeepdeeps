@@ -2,11 +2,11 @@
 **• I am currently pursuing MCA at SJBIT in Beengaluru.**<br>**• I am a Video Editor.**<br>**• I make website for freelancing using AI.**
 
 🌐 **Website Live** 
-https://xpensive-media.netlify.app
-https://likhiith-visuals.netlify.app
-https://nexgen-mca.netlify.app
-https://karamane.vercel.app
-https://lab-exam-program-picker.vercel.app
+https://xpensive-media.netlify.app<br>
+https://likhiith-visuals.netlify.app<br>
+https://nexgen-mca.netlify.app<br>
+https://karamane.vercel.app<br>
+https://lab-exam-program-picker.vercel.app<br>
 https://karnatakaeditingclub.vercel.app
 
 ## 🌐 Socials:
