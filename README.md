@@ -1,6 +1,13 @@
 # 💫 About Me:
 **• I am currently pursuing MCA at SJBIT in Beengaluru.**<br>**• I am a Video Editor.**<br>**• I make website for freelancing using AI.**
 
+🌐 **Website Live** 
+https://xpensive-media.netlify.app
+https://likhiith-visuals.netlify.app
+https://nexgen-mca.netlify.app
+https://karamane.vercel.app
+https://lab-exam-program-picker.vercel.app
+https://karnatakaeditingclub.vercel.app
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepsmp4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurudeepv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gurudeep_v) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DeepsPlayzYT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gurudeepv55@gmail.com) 
