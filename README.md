@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing MCA at SJBIT in Beengaluru.<br>I am a Video Editor.<br>I make website for freelancing using AI.
+**I am currently pursuing MCA at SJBIT in Beengaluru.**<br>I am a Video Editor.<br>I make website for freelancing using AI.
 
 
 ## 🌐 Socials:
