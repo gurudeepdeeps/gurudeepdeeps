@@ -10,7 +10,7 @@ https://portfolio-likhith.vercel.app<br>
 https://odave.vercel.app/<br>
 https://ms-properties.vercel.app<br>
 https://karunadu-editors-club.vercel.app<br>
-https://buyit-shop.vercel.app/<br>
+https://buyit-shop.vercel.app
 
 
 ## 🌐 Socials:
