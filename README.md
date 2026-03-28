@@ -2,7 +2,6 @@
 **• I am currently pursuing MCA at SJBIT in Beengaluru.**<br>**• I am a Video Editor.**<br>**• I make website for freelancing using AI.**
 
 🌐 **Website Live** <br>
-<a href="https://gurudeep-portfolio.vercel.app" target="_blank">Gurudeep Portfolio</a><br>
 https://gurudeep-portfolio.vercel.app<br>
 https://xpensivemedia.vercel.app<br>
 https://nexgen-mca.vercel.app<br>
