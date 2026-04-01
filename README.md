@@ -7,7 +7,7 @@ https://xpensivemedia.vercel.app<br>
 https://nexgen-mca.vercel.app<br>
 https://doddamani-photography.vercel.app<br>
 https://portfolio-likhith.vercel.app<br>
-https://odave.vercel.app/<br>
+https://odave.vercel.app<br>
 https://ms-properties.vercel.app<br>
 https://karunadu-editors-club.vercel.app<br>
 https://buyit-shop.vercel.app
